@@ -1,0 +1,6 @@
+site_name: Portfolio
+nav:
+    - Home: index.md
+    - Heroku Deployment: heroku.md
+theme:
+  name: material
